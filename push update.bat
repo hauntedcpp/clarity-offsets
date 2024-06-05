@@ -1,5 +1,3 @@
-@echo off
-title push updates
 git add .
-git commit -m "update"
+git commit -m "updated offsets"
 git push -u origin main
