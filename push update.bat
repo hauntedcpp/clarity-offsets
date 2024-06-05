@@ -2,4 +2,4 @@
 
 git add .
 git commit -m "updated offsets"
-git push -u origin main
+git push --force origin main
