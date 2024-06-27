@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2024-06-23 09:05:47.774918600 UTC
+// 2024-06-27 11:32:40.603736800 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -1947,10 +1947,10 @@ pub mod cs2_dumper {
             // MGetKV3ClassDefaults
             pub mod C_INIT_VelocityRadialRandom {
                 pub const m_nControlPointNumber: usize = 0x1C0; // int32
-                pub const m_fSpeedMin: usize = 0x1C4; // float32
-                pub const m_fSpeedMax: usize = 0x1C8; // float32
-                pub const m_vecLocalCoordinateSystemSpeedScale: usize = 0x1CC; // Vector
-                pub const m_bIgnoreDelta: usize = 0x1D9; // bool
+                pub const m_fSpeedMin: usize = 0x1C8; // CPerParticleFloatInput
+                pub const m_fSpeedMax: usize = 0x320; // CPerParticleFloatInput
+                pub const m_vecLocalCoordinateSystemSpeedScale: usize = 0x478; // Vector
+                pub const m_bIgnoreDelta: usize = 0x485; // bool
             }
             // Parent: CParticleFunctionInitializer
             // Fields count: 3

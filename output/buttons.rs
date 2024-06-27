@@ -1,26 +1,26 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2024-06-23 09:05:47.774918600 UTC
+// 2024-06-27 11:32:40.603736800 UTC
 
 #![allow(non_upper_case_globals, unused)]
 
 pub mod cs2_dumper {
     // Module: client.dll
     pub mod buttons {
-        pub const attack: usize = 0x1813120;
-        pub const attack2: usize = 0x18131B0;
-        pub const back: usize = 0x18133F0;
-        pub const duck: usize = 0x18136C0;
-        pub const forward: usize = 0x1813360;
-        pub const jump: usize = 0x1813630;
-        pub const left: usize = 0x1813480;
-        pub const lookatweapon: usize = 0x1A1E350;
-        pub const reload: usize = 0x1813090;
-        pub const right: usize = 0x1813510;
-        pub const showscores: usize = 0x1A1E230;
-        pub const sprint: usize = 0x1813000;
-        pub const turnleft: usize = 0x1813240;
-        pub const turnright: usize = 0x18132D0;
-        pub const r#use: usize = 0x18135A0;
-        pub const zoom: usize = 0x1A1E2C0;
+        pub const attack: usize = 0x181D160;
+        pub const attack2: usize = 0x181D1F0;
+        pub const back: usize = 0x181D430;
+        pub const duck: usize = 0x181D700;
+        pub const forward: usize = 0x181D3A0;
+        pub const jump: usize = 0x181D670;
+        pub const left: usize = 0x181D4C0;
+        pub const lookatweapon: usize = 0x1A28DF0;
+        pub const reload: usize = 0x181D0D0;
+        pub const right: usize = 0x181D550;
+        pub const showscores: usize = 0x1A28CD0;
+        pub const sprint: usize = 0x181D040;
+        pub const turnleft: usize = 0x181D280;
+        pub const turnright: usize = 0x181D310;
+        pub const r#use: usize = 0x181D5E0;
+        pub const zoom: usize = 0x1A28D60;
     }
 }
